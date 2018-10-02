@@ -1,0 +1,40 @@
+[{
+    "Version":  "18.10.1",
+    "Catalogs": [{
+        "Catalog":  "Adobe",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Adobe/CatAdobe.xml"
+        },
+        {
+        "Catalog":  "Component",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Component/CatComponent.xml"
+        },
+        {
+        "Catalog":  "Cumulative",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Cumulative/CatCumulative.xml"
+        },
+        {
+        "Catalog":  "FeatureOnDemand",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/FeatureOnDemand/CatFeatureOnDemand.xml"
+        },
+        {
+        "Catalog":  "LanguageFeature",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/LanguageFeature/CatLanguageFeature.xml"
+        },
+        {
+        "Catalog":  "LanguageInterfacePack",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/LanguageInterfacePack/CatLanguageInterfacePack.xml"
+        },
+        {
+        "Catalog":  "LanguagePack",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/LanguagePack/CatLanguagePack.xml"
+        },
+        {
+        "Catalog":  "Servicing",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Servicing/CatServicing.xml"
+        },
+        {
+        "Catalog":  "Setup",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Setup/CatSetup.xml"
+        }
+    ]
+}]
