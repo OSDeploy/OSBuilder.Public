@@ -2,7 +2,7 @@
     "Version":      "18.10.2.0",
     "Info":
     [
-                    "OSBuilder Update Catalogs were changed on October 2, 2018",
+                    "OSBuilder Catalogs were updated on October 2, 2018",
                     "Download the updates by using the following PowerShell Command:",
                     "Get-OSBuilderUpdates -UpdateCatalogs"
     ],
