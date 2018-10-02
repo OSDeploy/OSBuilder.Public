@@ -1,11 +1,14 @@
 {
     "Version":      "18.10.2.0",
-    "Info": [
+    "Info":
+    [
                     "OSBuilder Update Catalogs were changed on October 2, 2018",
                     "Download the updates by using the following PowerShell Command:",
                     "Get-OSBuilderUpdates -UpdateCatalogs"
-            ],
-    "Catalogs": [{
+    ],
+    "Catalogs": 
+    [  
+        {
         "Catalog":  "Adobe",
         "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Adobe/CatAdobe.xml"
         },
