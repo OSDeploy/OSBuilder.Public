@@ -1,0 +1,23 @@
+{
+    "Version":  "18.10.2.0",
+    "Info":
+    [
+        "OSBuilder has been updated to version 18.10.2.0",
+        "More information is at the following link",
+        "https://www.osdeploy.com/osbuilder/release-information.html",
+        "",
+        "Download from the PowerShell Gallery",
+        "https://www.powershellgallery.com/packages/OSBuilder/18.10.2.0",
+        "",
+        "Uninstall previous versions using the following PowerShell Command:",
+        "Uninstall-Module -Name OSBuilder -AllVersions -Force",
+        "",
+        "Install the latest version with the following PowerShell Command:",
+        "Install-Module -Name OSBuilder -Scope CurrentUser"
+    ],
+    "News":
+    [
+        "Update: https://www.osdeploy.com/osbuilder/quick-instructions",
+        "Update: https://www.osdeploy.com/osbuilder/how-to/import-osmedia"
+    ]
+}
