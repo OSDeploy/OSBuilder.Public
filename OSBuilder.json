@@ -1,13 +1,13 @@
 {
-    "Version":  "18.10.2.0",
+    "Version":  "18.10.3.0",
     "Info":
     [
-                "OSBuilder has been updated to version 18.10.2.0",
+                "OSBuilder has been updated to version 18.10.3.0",
                 "More information is at the following link",
                 "https://www.osdeploy.com/osbuilder/release-information.html",
                 "",
                 "Download from the PowerShell Gallery",
-                "https://www.powershellgallery.com/packages/OSBuilder/18.10.2.0",
+                "https://www.powershellgallery.com/packages/OSBuilder/18.10.3.0",
                 "",
                 "Uninstall previous versions using the following PowerShell Command:",
                 "Uninstall-Module -Name OSBuilder -AllVersions -Force",
