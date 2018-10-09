@@ -1,8 +1,8 @@
 {
-    "Version":      "18.10.3.0",
+    "Version":      "18.10.9.0",
     "Info":
     [
-                    "OSBuilder Catalogs were updated on October 3, 2018",
+                    "OSBuilder Catalogs were updated on October 9, 2018",
                     "Download the updates by using the following PowerShell Command:",
                     "Get-OSBuilderUpdates -UpdateCatalogs"
     ],
