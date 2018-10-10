@@ -1,14 +1,14 @@
 {
-    "Version":  "18.10.4.1",
+    "Version":  "18.10.10.0",
     "Info":
     [
-        "OSBuilder has been updated to version 18.10.4.1",
-        "ESD based OS's can now be imported and Server 2019 Logic",
+        "OSBuilder has been updated to version 18.10.10.0",
+        "Windows 10 1809 and Windows Server 2019 Supported",
         "More information is at the following link",
         "https://www.osdeploy.com/osbuilder/release-information.html",
         "",
         "Download from the PowerShell Gallery",
-        "https://www.powershellgallery.com/packages/OSBuilder/18.10.4.1",
+        "https://www.powershellgallery.com/packages/OSBuilder/18.10.10.0",
         "",
         "Uninstall previous versions using the following PowerShell Command:",
         "Uninstall-Module -Name OSBuilder -AllVersions -Force",
