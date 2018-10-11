@@ -1,8 +1,10 @@
 {
-    "Version":      "18.10.10.0",
+    "Version":      "18.10.11.0",
     "Info":
     [
-                    "OSBuilder Catalogs were updated on October 10, 2018",
+                    "OSBuilder Catalogs were updated on October 11, 2018",
+                    "Added Servicing Stack Updates for Windows 10 and Server 1809 Lotto Winners",
+                    "",
                     "Download the updates by using the following PowerShell Command:",
                     "Get-OSBuilderUpdates -UpdateCatalogs"
     ],
