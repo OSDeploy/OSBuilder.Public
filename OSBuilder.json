@@ -1,14 +1,14 @@
 {
-    "Version":  "18.10.10.0",
+    "Version":  "18.10.18.0",
     "Info":
     [
-        "OSBuilder has been updated to version 18.10.10.0",
-        "Windows 10 1809 and Windows Server 2019 Supported",
+        "OSBuilder has been updated to version 18.10.18.0",
+        "Introducing PEBuilds",
         "More information is at the following link",
         "https://www.osdeploy.com/osbuilder/release-information.html",
         "",
         "Download from the PowerShell Gallery",
-        "https://www.powershellgallery.com/packages/OSBuilder/18.10.10.0",
+        "https://www.powershellgallery.com/packages/OSBuilder/18.10.18.0",
         "",
         "Uninstall previous versions using the following PowerShell Command:",
         "Uninstall-Module -Name OSBuilder -AllVersions -Force",
@@ -19,7 +19,12 @@
     "News":
     [
         "Latest Updates:",
-        "https://www.osdeploy.com/osbuilder/how-to/get-osbuilder/setpath",
-        "https://www.osdeploy.com/osbuilder/how-to/import-osmedia/download"
+        "https://www.osdeploy.com/osbuilder/pebuild",
+        "https://www.osdeploy.com/osbuilder/pebuild/winpe-types",
+        "https://www.osdeploy.com/osbuilder/pebuild/new-pebuildtask",
+        "https://www.osdeploy.com/osbuilder/pebuild/invoke-pebuildtask",
+        "https://www.osdeploy.com/osbuilder/pebuild/auto-extrafiles",
+        "https://www.osdeploy.com/osbuilder/pebuild/extrafiles",
+        "https://www.osdeploy.com/osbuilder/pebuild/scripts"
     ]
 }
