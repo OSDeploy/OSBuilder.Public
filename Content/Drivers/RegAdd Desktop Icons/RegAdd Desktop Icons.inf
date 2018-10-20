@@ -1,0 +1,38 @@
+;==================================================================================================
+;   David Segura
+;   https://www.osdeploy.com
+;==================================================================================================
+;   Purpose: To display Desktop Icons
+;==================================================================================================
+;   Compatibility: Windows 10 x86 and x64
+;==================================================================================================
+[Version]
+Signature   = "$WINDOWS NT$"
+Class       = System
+ClassGuid   = {4D36E97d-E325-11CE-BFC1-08002BE10318}
+Provider    = OSDeploy
+DriverVer   = 10/19/2018,2018.10.19.0
+
+[DefaultInstall] 
+AddReg      = AddReg
+
+[AddReg]
+;rootkey,[subkey],[value],[flags],[data]
+;0x00000    REG_SZ
+;0x00001    REG_BINARY
+;0x10000    REG_MULTI_SZ
+;0x20000    REG_EXPAND_SZ
+;0x10001    REG_DWORD
+;0x20001    REG_NONE
+;OneDrive
+HKLM,Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel,{018D5C66-4533-4307-9B53-224DE2ED1FE6},0x10001,1
+;This PC
+HKLM,Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel,{20D04FE0-3AEA-1069-A2D8-08002B30309D},0x10001,0
+;Control Panel
+HKLM,Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel,{5399E694-6CE5-4D6C-8FCE-1D8870FDCBA0},0x10001,0
+;Profile
+HKLM,Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel,{59031a47-3f72-44a7-89c5-5595fe6b30ee},0x10001,0
+;Recycle Bin
+HKLM,Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel,{645FF040-5081-101B-9F08-00AA002F954E},0x10001,0
+;Network
+HKLM,Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel,{F02C1A0D-BE21-4350-88B0-7367FC96EF3C},0x10001,0
