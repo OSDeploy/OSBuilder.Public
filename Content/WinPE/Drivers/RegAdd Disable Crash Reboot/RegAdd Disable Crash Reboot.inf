@@ -2,7 +2,7 @@
 ;   David Segura
 ;   https://www.osdeploy.com
 ;==================================================================================================
-;   Purpose: Set PowerShell ExecutionPolicy to Bypass
+;   Purpose: Disables the Automatic Reboot on System Crash
 ;==================================================================================================
 ;   Compatibility: WinPE 10 x86 and x64
 ;==================================================================================================
@@ -24,4 +24,4 @@ AddReg      = AddReg
 ;0x20000    REG_EXPAND_SZ
 ;0x10001    REG_DWORD
 ;0x20001    REG_NONE
-HKLM,SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell,ExecutionPolicy,0x00000,"Bypass"
+HKLM,SYSTEM\ControlSet001\Control\CrashControl,AutoReboot,0x10001,0

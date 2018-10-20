@@ -4,14 +4,14 @@
 ;==================================================================================================
 ;   Purpose: Sets the Registered Owner and Organization
 ;==================================================================================================
-;   Compatibility: WinPE 10 Only
+;   Compatibility: WinPE 10 x86 and x64
 ;==================================================================================================
 [Version]
 Signature   = "$WINDOWS NT$"
 Class       = System
 ClassGuid   = {4D36E97d-E325-11CE-BFC1-08002BE10318}
 Provider    = OSDeploy
-DriverVer   = 10/18/2018,2018.10.18.0
+DriverVer   = 10/19/2018,2018.10.19.0
 
 [DefaultInstall] 
 AddReg      = AddReg 
