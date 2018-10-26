@@ -1,14 +1,16 @@
 {
-    "Version":  "18.10.22.0",
+    "Version":  "18.10.26.0",
     "Info":
     [
-        "OSBuilder has been updated to version 18.10.22.0",
-        " ",
+        "OSBuilder has been updated to version 18.10.26.0",
+        "Phil Pritchett Special Edition",
+        "https://twitter.com/PhilPritchett/status/1055170162368819200",
+        "",
         "More information is at the following link",
         "https://www.osdeploy.com/osbuilder/release-information.html",
         "",
         "Download from the PowerShell Gallery",
-        "https://www.powershellgallery.com/packages/OSBuilder/18.10.22.0",
+        "https://www.powershellgallery.com/packages/OSBuilder/18.10.26.0",
         "",
         "Uninstall previous versions using the following PowerShell Command:",
         "Uninstall-Module -Name OSBuilder -AllVersions -Force",
@@ -19,12 +21,9 @@
     "News":
     [
         "Latest Updates:",
-        "https://www.osdeploy.com/osbuilder/pebuild",
-        "https://www.osdeploy.com/osbuilder/pebuild/winpe-types",
-        "https://www.osdeploy.com/osbuilder/pebuild/new-pebuildtask",
-        "https://www.osdeploy.com/osbuilder/pebuild/invoke-pebuildtask",
-        "https://www.osdeploy.com/osbuilder/pebuild/auto-extrafiles",
-        "https://www.osdeploy.com/osbuilder/pebuild/extrafiles",
-        "https://www.osdeploy.com/osbuilder/pebuild/scripts"
+        "https://www.osdeploy.com/osbuilder/osmedia",
+        "https://www.osdeploy.com/osbuilder/osmedia/import-osmedia",
+        "https://www.osdeploy.com/osbuilder/osmedia/update-osmedia",
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask"
     ]
 }
