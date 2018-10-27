@@ -1,10 +1,12 @@
 {
-    "Version":      "18.10.19.0",
+    "Version":      "18.10.27.0",
     "Info":
     [
-                    "Adobe, Component, and Setup Updates",
+                    "New: 2018-10 Cumulative Update for Windows 10 1803 x64 KB4462933",
+                    "New: 2018-10 Cumulative Update for Windows 10 1803 x86 KB4462933",
+                    "New: 2018-10 Cumulative Update for Windows Server 2016 1803 x64 KB4462933",
                     "",
-                    "OSBuilder Catalogs were updated on October 19, 2018",
+                    "OSBuilder Catalogs were updated on October 27, 2018",
                     "Download the updates by using the following PowerShell Command:",
                     "Get-OSBuilderUpdates -UpdateCatalogs"
     ],
