@@ -2,13 +2,14 @@
     "Version":      "18.10.27.0",
     "Info":
     [
-                    "New: 2018-10 Cumulative Update for Windows 10 1803 x64 KB4462933",
-                    "New: 2018-10 Cumulative Update for Windows 10 1803 x86 KB4462933",
-                    "New: 2018-10 Cumulative Update for Windows Server 2016 1803 x64 KB4462933",
-                    "",
                     "OSBuilder Catalogs were updated on October 27, 2018",
-                    "Download the updates by using the following PowerShell Command:",
-                    "Get-OSBuilderUpdates -UpdateCatalogs"
+                    "Catalogs are updated using the following PowerShell Command:",
+                    "Get-OSBuilderUpdates -UpdateCatalogs",
+                    "",
+                    "New Updates:",
+                    "2018-10 Cumulative Update for Windows 10 1803 x64 KB4462933",
+                    "2018-10 Cumulative Update for Windows 10 1803 x86 KB4462933",
+                    "2018-10 Cumulative Update for Windows Server 2016 1803 x64 KB4462933"
     ],
     "Catalogs": 
     [  
