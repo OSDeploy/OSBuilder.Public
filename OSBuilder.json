@@ -26,6 +26,10 @@
         "https://www.osdeploy.com/osbuilder/osbuild",
         "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask",
         "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask/remove-appx-provisioned-package",
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask/remove-windows-package",
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask/remove-windows-capability",
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask/disable-windows-optional-feature",
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask/enable-windows-optional-feature",
         "https://www.osdeploy.com/osbuilder/osbuild/new-osbuild"
     ]
 }
