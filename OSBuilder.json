@@ -3,8 +3,6 @@
     "Info":
     [
         "OSBuilder has been updated to version 18.10.26.0",
-        "Phil Pritchett Special Edition",
-        "https://twitter.com/PhilPritchett/status/1055170162368819200",
         "",
         "More information is at the following link",
         "https://www.osdeploy.com/osbuilder/release-information.html",
@@ -24,6 +22,10 @@
         "https://www.osdeploy.com/osbuilder/osmedia",
         "https://www.osdeploy.com/osbuilder/osmedia/import-osmedia",
         "https://www.osdeploy.com/osbuilder/osmedia/update-osmedia",
-        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask"
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask",
+        "https://www.osdeploy.com/osbuilder/osbuild",
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask",
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask/remove-appx-provisioned-package",
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuild"
     ]
 }
