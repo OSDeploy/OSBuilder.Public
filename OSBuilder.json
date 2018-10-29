@@ -30,6 +30,7 @@
         "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask/remove-windows-capability",
         "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask/disable-windows-optional-feature",
         "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask/enable-windows-optional-feature",
+        "https://www.osdeploy.com/osbuilder/osbuild/new-osbuildtask-external/isoextract-content",
         "https://www.osdeploy.com/osbuilder/osbuild/new-osbuild"
     ]
 }
