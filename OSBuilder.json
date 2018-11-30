@@ -1,9 +1,9 @@
 {
-    "Version":  "18.11.17.0",
+    "Version":  "18.11.30.0",
     "Info":
     [
-        "OSBuilder has been updated to version 18.11.17.0",
-        "https://www.powershellgallery.com/packages/OSBuilder/18.11.17.0",
+        "OSBuilder has been updated to version 18.11.30.0",
+        "https://www.powershellgallery.com/packages/OSBuilder/18.11.30.0",
         "",
         "Release Information",
         "https://www.osdeploy.com/osbuilder/release-information.html",
@@ -17,7 +17,7 @@
     "News":
     [
         "OSDeploy.com Latest Updates:",
-        "Mount-WindowsImage no longer uses -Optimize to prevent issues with Offline Servicing 1809",
+        "Windows 10 and Server 2016 can now be updated with multiple Servicing Stacks",
         "",
         "See Release Information for more",
         "https://www.osdeploy.com/osbuilder/release-information.html"
