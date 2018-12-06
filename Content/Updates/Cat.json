@@ -1,13 +1,13 @@
 {
-    "Version":      "18.11.29.0",
+    "Version":      "18.12.6.0",
     "Info":
     [
-                    "OSBuilder Catalogs were updated on November 29, 2018",
+                    "OSBuilder Catalogs were updated on December 6, 2018",
+                    "",
                     "Catalogs are updated using the following PowerShell Command:",
                     "Get-OSBuilderUpdates -UpdateCatalogs",
                     "",
-                    "New Updates:",
-                    "Servicing Stack Prerequisites"
+                    "New Updates: 2018-12 Adobe Security Updates"
     ],
     "Catalogs": 
     [  
