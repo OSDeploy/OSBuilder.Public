@@ -1,8 +1,8 @@
 {
-    "Version":      "18.12.12.0",
+    "Version":      "18.12.12.1",
     "Info":
     [
-                    "OSBuilder Catalogs were updated for a second time on on December 12, 2018",
+                    "OSBuilder Catalogs were updated on December 12, 2018",
                     "",
                     "Catalogs are updated using the following PowerShell Command:",
                     "Get-OSBuilderUpdates -UpdateCatalogs",
