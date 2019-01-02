@@ -47,6 +47,14 @@
         {
         "Catalog":  "Setup",
         "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Setup/CatSetup.xml"
+        },
+        {
+        "Catalog":  "Windows 7 x64 7601",
+        "Url":
+        [
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog Windows 7 x64 7601 Core.xml",
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog Windows 7 x64 7601 Latest.xml"
+        ]
         }
     ]
 }
