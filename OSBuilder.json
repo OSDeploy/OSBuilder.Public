@@ -1,9 +1,9 @@
 {
-    "Version":  "18.12.20.0",
+    "Version":  "19.1.2.0",
     "Info":
     [
-        "OSBuilder has been updated to version 18.12.20.0",
-        "https://www.powershellgallery.com/packages/OSBuilder/18.12.20.0",
+        "OSBuilder has been updated to version 19.1.2.0",
+        "https://www.powershellgallery.com/packages/OSBuilder/19.1.2.0",
         "",
         "Release Information",
         "https://www.osdeploy.com/osbuilder/release-information.html",
@@ -17,7 +17,8 @@
     "News":
     [
         "OSDeploy.com Latest Updates:",
-        "Export Sessions.xml for real this time",
-        "Export BCP47*.dll"
+        "Some functions have been renamed.  See Release Information for more details",
+        "Windows 7 x64 SP1 7601 is UNOFFICIALLY supported",
+        "Try PowerShell Comment Based Help with the -Online parameter"
     ]
 }
