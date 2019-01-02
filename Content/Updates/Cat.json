@@ -1,14 +1,14 @@
 {
-    "Version":      "18.12.19.0",
+    "Version":      "19.1.2.2",
     "Info":
     [
-                    "OSBuilder Catalogs were updated on December 19, 2018",
+                    "OSBuilder Catalogs were updated on January 2, 2019",
                     "",
                     "Catalogs are updated using the following PowerShell Command:",
-                    "Get-OSBuilderUpdates -UpdateCatalogs",
+                    "Get-OSBUpdate -UpdateCatalogs",
                     "",
                     "New Updates:",
-                    "2018-12 Cumulative Updates"
+                    "Windows 7 x64 SP1 7601"
     ],
     "Catalogs": 
     [  
