@@ -1,14 +1,14 @@
 {
-    "Version":      "18.12.19.0",
+    "Version":      "19.1.8.0",
     "Info":
     [
-                    "OSBuilder Catalogs were updated on December 19, 2018",
+                    "OSBuilder Catalogs were updated on January 8, 2019",
                     "",
                     "Catalogs are updated using the following PowerShell Command:",
-                    "Get-OSBuilderUpdates -UpdateCatalogs",
+                    "Get-OSBUpdate -UpdateCatalogs",
                     "",
                     "New Updates:",
-                    "2018-12 Cumulative Updates"
+                    "2019-01 Servicing, Cumulative, and Adobe Updates"
     ],
     "Catalogs": 
     [  
@@ -47,6 +47,14 @@
         {
         "Catalog":  "Setup",
         "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Setup/CatSetup.xml"
+        },
+        {
+        "Catalog":  "Windows 7 x64 7601",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog Windows 7 x64 7601 Core.xml"
+        },
+        {
+        "Catalog":  "Windows 7 x64 7601",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog Windows 7 x64 7601 Latest.xml"
         }
     ]
 }
