@@ -1,15 +1,15 @@
 {
-    "Version":      "19.1.11.0",
+    "Version":      "19.1.16.0",
     "Info":
     [
-                    "OSBuilder Catalogs were updated on January 11, 2019",
+                    "OSBuilder Catalogs were updated on January 16, 2019",
                     "",
                     "Catalogs are updated using the following PowerShell Command:",
                     "Get-OSBUpdate -UpdateCatalogs",
                     "",
                     "New Updates:",
-                    "2019-01 Servicing, Cumulative, and Adobe Updates",
-                    "Windows 7 x64 and x86"
+                    "2019-01 Setup 1803",
+                    "2019-01 DotNet"
     ],
     "Catalogs": 
     [  
@@ -24,6 +24,10 @@
         {
         "Catalog":  "Cumulative",
         "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Cumulative/CatCumulative.xml"
+        },
+        {
+        "Catalog":  "DotNet",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/DotNet/Catalog DotNet.xml"
         },
         {
         "Catalog":  "FeatureOnDemand",

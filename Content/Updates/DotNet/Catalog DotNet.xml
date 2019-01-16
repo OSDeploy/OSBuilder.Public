@@ -1,0 +1,54 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>Selected.System.Management.Automation.PSCustomObject</T>
+      <T>System.Management.Automation.PSCustomObject</T>
+      <T>System.Object</T>
+    </TN>
+    <MS>
+      <S N="Category">DotNet</S>
+      <S N="KBNumber">4480056</S>
+      <S N="KBTitle">2019-01 Cumulative Update for .NET Framework 3.5 and 4.7.2 for Windows 10 1809 x86 KB4480056</S>
+      <S N="KBUrl">http://support.microsoft.com/kb/4480056</S>
+      <S N="Severity">Important</S>
+      <DT N="DatePosted">2019-01-08T12:00:00</DT>
+      <DT N="DateRevised">2019-01-08T12:00:00</DT>
+      <DT N="DateCreated">2019-01-08T13:04:10</DT>
+      <DT N="DateLastModified">2019-01-08T13:04:10</DT>
+      <S N="FileName">windows10.0-kb4480056-x86.cab</S>
+      <S N="URL">http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows10.0-kb4480056-x86_34c1ab60ba79ce7d555735541e57b13ca42295b7.cab</S>
+    </MS>
+  </Obj>
+  <Obj RefId="1">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="Category">DotNet</S>
+      <S N="KBNumber">4480056</S>
+      <S N="KBTitle">2019-01 Cumulative Update for .NET Framework 3.5 and 4.7.2 for Windows 10 1809 x64 KB4480056</S>
+      <S N="KBUrl">http://support.microsoft.com/kb/4480056</S>
+      <S N="Severity">Important</S>
+      <DT N="DatePosted">2019-01-08T12:00:00</DT>
+      <DT N="DateRevised">2019-01-08T12:00:00</DT>
+      <DT N="DateCreated">2019-01-08T13:03:39</DT>
+      <DT N="DateLastModified">2019-01-08T13:03:39</DT>
+      <S N="FileName">windows10.0-kb4480056-x64.cab</S>
+      <S N="URL">http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows10.0-kb4480056-x64_e9b17064b77f08c99a177b68a8639f4537ef918c.cab</S>
+    </MS>
+  </Obj>
+  <Obj RefId="2">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="Category">DotNet</S>
+      <S N="KBNumber">4480056</S>
+      <S N="KBTitle">2019-01 Cumulative Update for .NET Framework 3.5 and 4.7.2 for Windows Server 2019 1809 x64 KB4480056</S>
+      <S N="KBUrl">http://support.microsoft.com/kb/4480056</S>
+      <S N="Severity">Important</S>
+      <DT N="DatePosted">2019-01-08T12:00:00</DT>
+      <DT N="DateRevised">2019-01-08T12:00:00</DT>
+      <DT N="DateCreated">2019-01-08T13:04:03</DT>
+      <DT N="DateLastModified">2019-01-08T13:04:03</DT>
+      <S N="FileName">windows10.0-kb4480056-x64.cab</S>
+      <S N="URL">http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows10.0-kb4480056-x64_e9b17064b77f08c99a177b68a8639f4537ef918c.cab</S>
+    </MS>
+  </Obj>
+</Objs>
