@@ -7,13 +7,13 @@ if ($TaskType -eq 'PEBuild') {
     }
 } else {
     if (Test-Path "$MountWinPE") {
-        Dism /Image:"$MountWinPE" /Set-TimeZone:"Central Standard Time" /LogPath:"$PELogs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-Dism-SetTimeZone-winpe.wim.log"
-    }
-    if (Test-Path "$MountSetup") {
-        Dism /Image:"$MountSetup" /Set-TimeZone:"Central Standard Time" /LogPath:"$PELogs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-Dism-SetTimeZone-setup.wim.log"
+        Dism /Image:"$MountWinPE" /Set-TimeZone:"Central Standard Time" /LogPath:"$PELogs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-Dism-SetTimeZone-WinPE.log"
     }
     if (Test-Path "$MountWinRE") {
-        Dism /Image:"$MountWinRE" /Set-TimeZone:"Central Standard Time" /LogPath:"$PELogs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-Dism-SetTimeZone-winre.wim.log"
+        Dism /Image:"$MountWinRE" /Set-TimeZone:"Central Standard Time" /LogPath:"$PELogs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-Dism-SetTimeZone-WinRE.log"
+    }
+    if (Test-Path "$MountWinSE") {
+        Dism /Image:"$MountWinSE" /Set-TimeZone:"Central Standard Time" /LogPath:"$PELogs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-Dism-SetTimeZone-WinSE.log"
     }
 }
 #======================================================================================
