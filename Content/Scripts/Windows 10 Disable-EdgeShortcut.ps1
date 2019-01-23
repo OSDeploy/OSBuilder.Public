@@ -2,10 +2,10 @@
 #   http://osdeploy.com
 #
 #   OSBuilder Script
-#   Windows 7 Add-OEMBackground.ps1
-#   Version 19.1.18
+#   Windows 10 Disable-EdgeShortcut.ps1
+#   Version 19.1.22
 #
-#   Requires ExtraFiles to add "C:\Windows\System32\oobe\info\backgrounds\backgroundDefault.jpg"
+#   Disables the new Edge Shortcut Creation on the Desktop
 #======================================================================================
 #   Load Registry Hives
 #======================================================================================
@@ -33,7 +33,8 @@ if (Test-Path $RegSystem) {
 #======================================================================================
 #   Registry Commands
 #======================================================================================
-$RegCommands = 'add "HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\LogonUI\Background" /v OEMBackground /t REG_DWORD /d 1 /f'
+$RegCommands =
+'add "HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer" /v DisableEdgeDesktopShortcutCreation /t REG_DWORD /d 1 /f'
 
 #======================================================================================
 #   Process Registry Commands

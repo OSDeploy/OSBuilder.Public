@@ -2,11 +2,11 @@
 #   http://osdeploy.com
 #
 #   OSBuilder Script
-#   Windows 10 x64 1809 Add-CapabilityRSAT.ps1
-#   Version 19.1.23
+#   Windows 10 x86 1809 Add-CapabilityRSAT.ps1
+#	Version 19.1.23
 #   https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/features-on-demand-non-language-fod
 #======================================================================================
-$FODContent = "$OSBuilderContent\IsoExtract\Windows 10 1809 x64 FOD"
+$FODContent = "$OSBuilderContent\IsoExtract\Windows 10 1809 x86 FOD"
 $CurrentLog = "$Info\logs\$((Get-Date).ToString('yyyy-MM-dd-HHmmss'))-RSAT.log"
 
 Write-Host "MountDirectory: $MountDirectory" -ForegroundColor DarkGray

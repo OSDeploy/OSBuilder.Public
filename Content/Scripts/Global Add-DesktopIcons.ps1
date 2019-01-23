@@ -2,10 +2,10 @@
 #   http://osdeploy.com
 #
 #   OSBuilder Script
-#   Windows 7 Add-OEMBackground.ps1
-#   Version 19.1.18
+#   Global Add-DesktopIcons.ps1
+#   Version 19.1.22
 #
-#   Requires ExtraFiles to add "C:\Windows\System32\oobe\info\backgrounds\backgroundDefault.jpg"
+#   Adds Standard Desktop Icons (This PC, Network, Recycle Bin, Control Panel)
 #======================================================================================
 #   Load Registry Hives
 #======================================================================================
@@ -33,7 +33,13 @@ if (Test-Path $RegSystem) {
 #======================================================================================
 #   Registry Commands
 #======================================================================================
-$RegCommands = 'add "HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\LogonUI\Background" /v OEMBackground /t REG_DWORD /d 1 /f'
+$RegCommands =
+'add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /v {018D5C66-4533-4307-9B53-224DE2ED1FE6} /t REG_DWORD /d 1 /f',
+'add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /v {20D04FE0-3AEA-1069-A2D8-08002B30309D} /t REG_DWORD /d 0 /f',
+'add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /v {5399E694-6CE5-4D6C-8FCE-1D8870FDCBA0} /t REG_DWORD /d 0 /f',
+'add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /v {59031a47-3f72-44a7-89c5-5595fe6b30ee} /t REG_DWORD /d 0 /f',
+'add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /v {645FF040-5081-101B-9F08-00AA002F954E} /t REG_DWORD /d 0 /f',
+'add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel" /v {F02C1A0D-BE21-4350-88B0-7367FC96EF3C} /t REG_DWORD /d 0 /f'
 
 #======================================================================================
 #   Process Registry Commands

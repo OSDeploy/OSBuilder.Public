@@ -41,6 +41,9 @@ if (Test-Path $RegSystem) {
 $RegCommands =
 'delete HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v OneDriveSetup /f'
 
+#======================================================================================
+#   Process Registry Commands
+#======================================================================================
 foreach ($Command in $RegCommands) {
     if ($Command -like "*HKCU*") {
         $Command = $Command -replace "HKCU","HKLM\MountDefaultUser"
