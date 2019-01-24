@@ -1,15 +1,16 @@
 {
-    "Version":      "19.1.23.0",
+    "Version":      "19.1.24.0",
     "Info":
     [
-                    "OSBuilder Catalogs were updated on January 23, 2019",
+                    "OSBuilder Catalogs were updated on January 24, 2019",
                     "",
                     "Catalogs are updated using the following PowerShell Command:",
                     "Get-OSBUpdate -UpdateCatalogs",
                     "",
                     "New Updates:",
                     "19.1.23 Cumulative 1809",
-                    "19.1.23 DotNet Cumulative 1809"
+                    "19.1.23 DotNet Cumulative 1809",
+                    "19.1.24 DotNet Cumulative 1809 Previous Version"
     ],
     "Catalogs": 
     [  
