@@ -6,6 +6,7 @@
     ],
     "News":
     [
-        "New Functions: Rename-OSMedia Repair-OSBuildTask Repair-PEBuildTask"
+        "New Functions:",
+        "Rename-OSMedia Repair-OSBuildTask Repair-PEBuildTask"
     ]
 }
