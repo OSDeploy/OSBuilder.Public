@@ -3,23 +3,11 @@
     "Info":
     [
         "OSBuilder has been updated to version 19.1.24.1",
-        "https://www.powershellgallery.com/packages/OSBuilder/19.1.24.1",
-        "",
-        "Release Information",
-        "https://www.osdeploy.com/osbuilder/release-information.html",
-        "",
-        "Uninstall Previous Version",
-        "Uninstall-Module -Name OSBuilder -AllVersions -Force",
-        "",
-        "Install Latest Version",
-        "Install-Module -Name OSBuilder -Scope CurrentUser -Force"
+        "https://www.powershellgallery.com/packages/OSBuilder/19.1.24.1"
     ],
     "News":
     [
         "OSDeploy.com Latest Updates:",
-        "Make sure you execute the following functions before getting too comfortable",
-        "Rename-OSMedia",
-        "Repair-OSBuildTask",
-        "Repair-PEBuildTask"
+        "New Functions: Rename-OSMedia Repair-OSBuildTask Repair-PEBuildTask"
     ]
 }
