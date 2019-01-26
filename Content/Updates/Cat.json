@@ -2,10 +2,9 @@
     "Version":      "19.1.24.0",
     "Info":
     [
-                    "New Microsoft Updates:",
-                    "19.1.23 Cumulative 1809",
-                    "19.1.23 DotNet Cumulative 1809",
-                    "19.1.24 DotNet Cumulative 1809 Previous Version"
+                    "19.1.23 1809 Cumulative Updates",
+                    "19.1.23 1809 DotNet Cumulative",
+                    "19.1.24 1809 DotNet Cumulative Previous Version"
     ],
     "Catalogs": 
     [  

@@ -2,12 +2,10 @@
     "Version":  "19.1.24.1",
     "Info":
     [
-        "OSBuilder has been updated to version 19.1.24.1",
         "https://www.powershellgallery.com/packages/OSBuilder/19.1.24.1"
     ],
     "News":
     [
-        "OSDeploy.com Latest Updates:",
         "New Functions: Rename-OSMedia Repair-OSBuildTask Repair-PEBuildTask"
     ]
 }
