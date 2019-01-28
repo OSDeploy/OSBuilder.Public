@@ -1,12 +1,12 @@
 {
-    "Version":  "19.1.24.1",
+    "Version":  "19.1.28.0",
     "Info":
     [
-        "https://www.powershellgallery.com/packages/OSBuilder/19.1.24.1"
+        "https://www.powershellgallery.com/packages/OSBuilder/19.1.28.0"
     ],
     "News":
     [
-        "New Functions:",
-        "Rename-OSMedia Repair-OSBuildTask Repair-PEBuildTask"
+        "OSBuilder Updates: Compact Get-OSBuilder, Registry, and Task Updates",
+        "Parameters: SkipTask, SkipTemplates, and SkipUpdates"
     ]
 }
