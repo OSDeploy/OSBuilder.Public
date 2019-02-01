@@ -1,12 +1,12 @@
 {
-    "Version":  "19.1.31.1",
+    "Version":  "19.2.1.0",
     "Info":
     [
-        "https://www.powershellgallery.com/packages/OSBuilder/19.1.31.1"
+        "https://www.powershellgallery.com/packages/OSBuilder/19.2.1.0"
     ],
     "News":
     [
         "OSBuilder Updates: OSBuild Registry and Templates",
-        "San Antonio SMUG Special Edition"
+        "Registry REG files are now supported"
     ]
 }
