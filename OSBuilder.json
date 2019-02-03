@@ -1,12 +1,13 @@
 {
-    "Version":  "19.2.1.0",
+    "Version":  "19.2.3.0",
     "Info":
     [
-        "https://www.powershellgallery.com/packages/OSBuilder/19.2.1.0"
+        "https://www.powershellgallery.com/packages/OSBuilder/19.2.3.0"
     ],
     "News":
     [
         "OSBuilder Updates: OSBuild Registry and Templates",
-        "Registry REG files are now supported"
+        "19.2.3 Resolved REG files with spaces in Path not imported",
+        "19.2.1 Registry REG files are now supported"
     ]
 }
