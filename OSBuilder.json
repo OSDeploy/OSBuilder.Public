@@ -1,5 +1,9 @@
 {
     "Version":  "19.2.5.1",
+    "Links":
+    [
+        "https://www.osdeploy.com/osbuilder/release-information.html"
+    ],
     "Info":
     [
         "https://www.powershellgallery.com/packages/OSBuilder/19.2.5.1"
