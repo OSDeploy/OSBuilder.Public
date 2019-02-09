@@ -4,16 +4,16 @@
     [
         "https://www.powershellgallery.com/packages/OSBuilder/19.2.5.1"
     ],
-    "Important":
+    "NewLinks":
+    [
+        "https://www.osdeploy.com/osbuilder/docs/guides/osbuild-arcade/frogger"
+    ],
+    "HelpfulLinks":
     [
         "https://www.osdeploy.com/osbuilder/release-information",
         "https://www.osdeploy.com/osbuilder/docs/functions"
     ],
-    "New":
-    [
-        "https://www.osdeploy.com/osbuilder/docs/guides/osbuild-arcade/frogger"
-    ],
-    "Updates":
+    "LatestUpdates":
     [
         "19.2.5 Templates using Drivers, ExtraFiles, Registry, and Scripts",
         "19.2.3 Resolved REG files with spaces in Path not imported",
