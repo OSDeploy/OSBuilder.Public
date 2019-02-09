@@ -1,10 +1,15 @@
 {
     "Version":  "19.2.5.1",
-    "Links":
+    "PSGallery":
     [
-        "https://www.osdeploy.com/osbuilder/release-information.html"
+        "https://www.powershellgallery.com/packages/OSBuilder/19.2.5.1"
     ],
-    "Posts":
+    "Important":
+    [
+        "https://www.osdeploy.com/osbuilder/release-information",
+        "https://www.osdeploy.com/osbuilder/docs/functions"
+    ],
+    "New":
     [
         "https://www.osdeploy.com/osbuilder/docs/guides/osbuild-arcade/frogger"
     ],
