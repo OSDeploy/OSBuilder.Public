@@ -4,6 +4,10 @@
     [
         "https://www.osdeploy.com/osbuilder/release-information.html"
     ],
+    "Posts":
+    [
+        "https://www.osdeploy.com/osbuilder/docs/guides/osbuild-arcade/frogger"
+    ],
     "Info":
     [
         "https://www.powershellgallery.com/packages/OSBuilder/19.2.5.1"
