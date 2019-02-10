@@ -1,31 +1,33 @@
 {
-    "Version":  "19.2.5.1",
+    "Version":  "19.2.10.0",
     "PSGallery":
     [
-        "https://www.powershellgallery.com/packages/OSBuilder/19.2.5.1"
+        "https://www.powershellgallery.com/packages/OSBuilder/19.2.10.0"
     ],
     "NewLinks":
     [
-        "https://www.osdeploy.com/osbuilder/docs/guides/osbuild-arcade/frogger"
+        "https://www.osdeploy.com/osbuilder/docs/basics"
     ],
     "HelpfulLinks":
     [
         "https://www.osdeploy.com/osbuilder/release-information",
+        "https://www.osdeploy.com/osbuilder/docs/basics",
         "https://www.osdeploy.com/osbuilder/docs/functions"
     ],
     "LatestUpdates":
     [
+        "19.2.10 Get-OSBuilder minor changes",
         "19.2.5 Templates using Drivers, ExtraFiles, Registry, and Scripts",
         "19.2.3 Resolved REG files with spaces in Path not imported",
         "19.2.1 Registry REG files are now supported"
     ],
     "Info":
     [
-        "https://www.powershellgallery.com/packages/OSBuilder/19.2.5.1"
+        "https://www.powershellgallery.com/packages/OSBuilder/19.2.10.0"
     ],
     "News":
     [
-        "OSBuilder Updates: OSBuild Registry and Templates",
+        "19.2.10 Get-OSBuilder minor changes",
         "19.2.5 Templates using Drivers, ExtraFiles, Registry, and Scripts",
         "19.2.3 Resolved REG files with spaces in Path not imported",
         "19.2.1 Registry REG files are now supported"
