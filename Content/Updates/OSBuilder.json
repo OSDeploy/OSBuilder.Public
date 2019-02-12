@@ -9,7 +9,8 @@
     ],
     "CatalogsDelete":
     [
-					"Windows Server 2012 R2 x64\\Catalog Server 2012 R2 x64.xml"
+                    "Windows Server 2012 R2 x64\\Catalog Server 2012 R2 x64.xml",
+                    "Windows Server 2012 R2 x64\\Catalog Server 2012 R2 x64.xml"
     ],
     "Catalogs": 
     [  
@@ -55,23 +56,23 @@
         },
         {
         "Catalog":  "Windows 7 x64 7601",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog Windows 7 x64 7601 Core.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog 2019-01 Windows 7 x64 7601 Core.xml"
         },
         {
         "Catalog":  "Windows 7 x64 7601",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog Windows 7 x64 7601 Latest.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog 2019-01 Windows 7 x64 7601 Latest.xml"
         },
         {
         "Catalog":  "Windows 7 x86 7601",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x86 7601/Catalog Windows 7 x86 7601 Core.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x86 7601/Catalog 2019-01 Windows 7 x86 7601 Core.xml"
         },
         {
         "Catalog":  "Windows 7 x86 7601",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x86 7601/Catalog Windows 7 x86 7601 Latest.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x86 7601/Catalog 2019-01 Windows 7 x86 7601 Latest.xml"
         },
         {
         "Catalog":  "Windows Server 2012 R2 x64",
-        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows Server 2012 R2 x64/Catalog Windows Server 2012 R2 x64.xml"
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows Server 2012 R2 x64/Catalog 2019-01 Windows Server 2012 R2 x64.xml"
         }
     ]
 }
