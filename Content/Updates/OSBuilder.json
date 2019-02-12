@@ -9,8 +9,10 @@
     ],
     "CatalogsDownload":
     [
-                    "Windows Server 2012 R2 x64\\Catalog Server 2012 R2 x64.xml",
-                    "Windows Server 2012 R2 x64\\Catalog Server 2012 R2 x64.xml"
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-0211 Adobe.xml",
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-0211 Component.xml",
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-0211 DotNet.xml",
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-0211 Windows 7 x64 7601 Core.xml"
     ],
     "CatalogsRemove":
     [
@@ -18,7 +20,8 @@
                     "Catalog Windows 7 x64 7601 Latest.xml",
                     "Catalog Windows 7 x86 7601 Core.xml",
                     "Catalog Windows 7 x86 7601 Latest.xml",
-                    "Catalog Server 2012 R2 x64.xml"
+                    "Catalog Server 2012 R2 x64.xml",
+                    "Catalog Windows Server 2012 R2 x64"
     ],
     "Catalogs": 
     [  
