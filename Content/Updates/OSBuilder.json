@@ -14,7 +14,10 @@
     ],
     "CatalogsRemove":
     [
-                    "Windows Server 2012 R2 x64\\Catalog Server 2012 R2 x64.xml",
+                    "Windows 7 x64 7601\\Catalog Windows 7 x64 7601 Core.xml",
+                    "Windows 7 x64 7601\\Catalog Windows 7 x64 7601 Latest.xml",
+                    "Windows 7 x86 7601\\Catalog Windows 7 x86 7601 Core.xml",
+                    "Windows 7 x86 7601\\Catalog Windows 7 x86 7601 Latest.xml",
                     "Windows Server 2012 R2 x64\\Catalog Server 2012 R2 x64.xml"
     ],
     "Catalogs": 
