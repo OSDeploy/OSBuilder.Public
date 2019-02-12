@@ -1,23 +1,23 @@
 {
-    "Version":      "19.2.11.0",
+    "Version":      "19.2.12.0",
     "Info":
     [
                     "19.1.23 1809 Cumulative Updates",
                     "19.1.23 1809 DotNet Cumulative",
                     "19.1.24 1809 DotNet Cumulative Previous Version",
-                    "19.2.12 February Patch Tuesday"
+                    "19.2.12 February Patch Tuesday ASU LCU SSU DotNet"
     ],
     "CatalogsDownload":
     [
-                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Adobe 2019-01-08.xml",
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Adobe 2019-02-12.xml",
                     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Component 2018-10-18.xml",
-                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Cumulative 2019-01-22.xml",
-                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog DotNet 2019-01-22.xml",
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Cumulative 2019-02-12.xml",
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog DotNet 2019-02-12.xml",
                     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog FeatureOnDemand Windows 10 1709-1803.xml",
                     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog LanguageFeature Windows 10 1709-1803.xml",
                     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog LanguageInterfacePack Windows 10 1607-1803.xml",
                     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog LanguagePack Windows 10 1607-1803.xml",
-                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Servicing 2019-01-08.xml",
+                    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Servicing 2019-02-12.xml",
                     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Setup 2019-01-15.xml",
                     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Windows 7 x64 7601 2019-01-04.xml",
                     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog Windows 7 x86 7601 2019-01-08.xml",
@@ -27,14 +27,18 @@
     [
                     "Cat.json",
                     "CatAdobe.xml",
+                    "Catalog Adobe 2019-01-08.xml",
                     "CatComponent.xml",
                     "CatCumulative.xml",
+                    "Catalog Cumulative 2019-01-22.xml",
                     "Catalog DotNet.xml",
+                    "Catalog DotNet 2019-01-22.xml",
                     "CatFeatureOnDemand.xml",
                     "CatLanguageFeature.xml",
                     "CatLanguageInterfacePack.xml",
                     "CatLanguagePack.xml",
                     "CatServicing.xml",
+                    "Catalog Servicing 2019-01-08.xml",
                     "CatSetup.xml",
                     "Catalog Windows 7 x64 7601 Core.xml",
                     "Catalog Windows 7 x64 7601 Latest.xml",
