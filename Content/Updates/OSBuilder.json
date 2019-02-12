@@ -1,0 +1,77 @@
+{
+    "Version":      "19.2.11.0",
+    "Info":
+    [
+                    "19.1.23 1809 Cumulative Updates",
+                    "19.1.23 1809 DotNet Cumulative",
+                    "19.1.24 1809 DotNet Cumulative Previous Version",
+                    "19.2.12 February Patch Tuesday"
+    ],
+    "CatalogsDelete":
+    [
+					"Windows Server 2012 R2 x64\\Catalog Server 2012 R2 x64.xml"
+    ],
+    "Catalogs": 
+    [  
+        {
+        "Catalog":  "Adobe",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Adobe/CatAdobe.xml"
+        },
+        {
+        "Catalog":  "Component",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Component/CatComponent.xml"
+        },
+        {
+        "Catalog":  "Cumulative",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Cumulative/CatCumulative.xml"
+        },
+        {
+        "Catalog":  "DotNet",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/DotNet/Catalog DotNet.xml"
+        },
+        {
+        "Catalog":  "FeatureOnDemand",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/FeatureOnDemand/CatFeatureOnDemand.xml"
+        },
+        {
+        "Catalog":  "LanguageFeature",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/LanguageFeature/CatLanguageFeature.xml"
+        },
+        {
+        "Catalog":  "LanguageInterfacePack",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/LanguageInterfacePack/CatLanguageInterfacePack.xml"
+        },
+        {
+        "Catalog":  "LanguagePack",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/LanguagePack/CatLanguagePack.xml"
+        },
+        {
+        "Catalog":  "Servicing",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Servicing/CatServicing.xml"
+        },
+        {
+        "Catalog":  "Setup",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Setup/CatSetup.xml"
+        },
+        {
+        "Catalog":  "Windows 7 x64 7601",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog Windows 7 x64 7601 Core.xml"
+        },
+        {
+        "Catalog":  "Windows 7 x64 7601",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x64 7601/Catalog Windows 7 x64 7601 Latest.xml"
+        },
+        {
+        "Catalog":  "Windows 7 x86 7601",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x86 7601/Catalog Windows 7 x86 7601 Core.xml"
+        },
+        {
+        "Catalog":  "Windows 7 x86 7601",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows 7 x86 7601/Catalog Windows 7 x86 7601 Latest.xml"
+        },
+        {
+        "Catalog":  "Windows Server 2012 R2 x64",
+        "Url":      "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Windows Server 2012 R2 x64/Catalog Windows Server 2012 R2 x64.xml"
+        }
+    ]
+}
