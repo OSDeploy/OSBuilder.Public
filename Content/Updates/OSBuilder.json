@@ -1,5 +1,5 @@
 {
-    "Version":      "19.2.14.3",
+    "Version":      "19.2.14.4",
     "Info":
     [
     "19.2.14 Catalog Organization",
@@ -21,7 +21,7 @@
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 Cumulative.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 DotNet.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 Servicing.xml",
-    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows 7 7601.xml",
+    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows 7 7601 A.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows Server 2012 R2.xml"
     ],
     "CatalogsRemove":
@@ -56,6 +56,7 @@
     "Catalog Windows 7 x64 7601 Core.xml",
     "Catalog Windows 7 x64 7601 Latest.xml",
     "Catalog Windows 7 x86 7601 2019-01-08.xml",
+    "Catalog 2019-02-14 Windows 7 7601.xml",
     "Catalog Windows 7 x86 7601 Core.xml",
     "Catalog Windows 7 x86 7601 Latest.xml",
     "Catalog Windows Server 2012 R2 x64 2019-01-08.xml",
