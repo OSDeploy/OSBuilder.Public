@@ -1,5 +1,5 @@
 {
-    "Version":      "19.2.14.5",
+    "Version":      "19.2.14.6",
     "Info":
     [
     "19.2.14 Catalog Organization",
@@ -14,7 +14,7 @@
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2018 LanguageInterfacePack Windows 10 1607-1803.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2018 LanguagePack Windows 10 1607-1803.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2018 Windows 7 7601.xml",
-    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2018 Windows Server 2012 R2.xml",
+    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2018 Windows Server 2012 R2 x64.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2018-10-18 Component.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-01-15 Setup.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 Adobe.xml",
@@ -22,7 +22,7 @@
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 DotNet.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Servicing.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows 7 7601 A.xml",
-    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows Server 2012 R2.xml"
+    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows Server 2012 R2 x64.xml"
     ],
     "CatalogsRemove":
     [
@@ -37,6 +37,8 @@
     "CatServicing.xml",
     "CatSetup.xml",
     "Catalog Adobe 2019-01-08.xml",
+    "Catalog 2018 Windows Server 2012 R2.xml",
+    "Catalog 2019-02-14 Windows Server 2012 R2.xml",
     "Catalog Adobe 2019-02-12.xml",
     "Catalog Component 2018-10-18.xml",
     "Catalog 2019-02-12 Servicing.xml",
