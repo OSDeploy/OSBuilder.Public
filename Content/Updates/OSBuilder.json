@@ -1,5 +1,5 @@
 {
-    "Version":      "19.2.14.4",
+    "Version":      "19.2.14.5",
     "Info":
     [
     "19.2.14 Catalog Organization",
@@ -20,7 +20,7 @@
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 Adobe.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 Cumulative.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 DotNet.xml",
-    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 Servicing.xml",
+    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Servicing.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows 7 7601 A.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows Server 2012 R2.xml"
     ],
@@ -39,6 +39,7 @@
     "Catalog Adobe 2019-01-08.xml",
     "Catalog Adobe 2019-02-12.xml",
     "Catalog Component 2018-10-18.xml",
+    "Catalog 2019-02-12 Servicing.xml",
     "Catalog Cumulative 2019-01-22.xml",
     "Catalog Cumulative 2019-02-12.xml",
     "Catalog DotNet 2019-01-22.xml",
