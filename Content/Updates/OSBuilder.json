@@ -1,5 +1,5 @@
 {
-    "Version":      "19.2.14.2",
+    "Version":      "19.2.14.3",
     "Info":
     [
     "19.2.14 Catalog Organization",
@@ -58,7 +58,7 @@
     "Catalog Windows 7 x86 7601 2019-01-08.xml",
     "Catalog Windows 7 x86 7601 Core.xml",
     "Catalog Windows 7 x86 7601 Latest.xml",
-    "Catalog Windows Server 2012 R2 x64 2019-01-08.xml"
+    "Catalog Windows Server 2012 R2 x64 2019-01-08.xml",
     "Catalog Windows Server 2012 R2 x64"
     ]
 }
