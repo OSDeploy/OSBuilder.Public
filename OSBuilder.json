@@ -1,8 +1,8 @@
 {
-    "Version":  "19.2.12.0",
+    "Version":  "19.2.15.0",
     "PSGallery":
     [
-        "https://www.powershellgallery.com/packages/OSBuilder/19.2.12.0"
+        "https://www.powershellgallery.com/packages/OSBuilder/19.2.15.0"
     ],
     "NewLinks":
     [
@@ -17,13 +17,13 @@
     ],
     "LatestUpdates":
     [
+        "19.2.15.0 Friday Update",
         "19.2.12.0 Patch Tuesday Release",
-        "19.2.10.0 Get-OSBuilder minor changes",
-        "19.2.5.0 Templates using Drivers, ExtraFiles, Registry, and Scripts"
+        "19.2.10.0 Get-OSBuilder minor changes"
     ],
     "Info":
     [
-        "https://www.powershellgallery.com/packages/OSBuilder/19.2.12.0"
+        "https://www.powershellgallery.com/packages/OSBuilder/19.2.15.0"
     ],
     "News":
     [
