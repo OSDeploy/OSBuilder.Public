@@ -1,11 +1,10 @@
 {
-    "Version":      "19.2.14.6",
+    "Version":      "19.3.3.0",
     "Info":
     [
+    "19.3.3 1809 Cumulative and DotNet"
     "19.2.14 Catalog Organization",
-    "19.2.12 February Patch Tuesday ASU LCU SSU DotNet",
-    "19.1.24 1809 DotNet Cumulative Previous Version",
-    "19.1.23 1809 LCU DotNet"
+    "19.2.12 February Patch Tuesday ASU LCU SSU DotNet"
     ],
     "CatalogsDownload":
     [
@@ -18,11 +17,11 @@
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2018-10-18 Component.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-01-15 Setup.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 Adobe.xml",
-    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 Cumulative.xml",
-    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-12 DotNet.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Servicing.xml",
     "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows 7 7601 A.xml",
-    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows Server 2012 R2 x64.xml"
+    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-02-14 Windows Server 2012 R2 x64.xml",
+    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-03-03 Cumulative.xml",
+    "https://raw.githubusercontent.com/OSDeploy/OSBuilder.Public/master/Content/Updates/Catalog 2019-03-03 DotNet.xml"
     ],
     "CatalogsRemove":
     [
@@ -44,8 +43,10 @@
     "Catalog 2019-02-12 Servicing.xml",
     "Catalog Cumulative 2019-01-22.xml",
     "Catalog Cumulative 2019-02-12.xml",
+    "Catalog 2019-02-12 Cumulative.xml",
     "Catalog DotNet 2019-01-22.xml",
     "Catalog DotNet 2019-02-12.xml",
+    "Catalog 2019-02-12 DotNet.xml",
     "Catalog DotNet.xml",
     "Catalog FeatureOnDemand Windows 10 1709-1803.xml",
     "Catalog LanguageFeature Windows 10 1709-1803.xml",
