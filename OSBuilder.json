@@ -1,35 +1,33 @@
 {
-    "Version":  "19.2.15.0",
+    "Version":  "19.3.18.0",
     "PSGallery":
     [
-        "https://www.powershellgallery.com/packages/OSBuilder/19.2.15.0"
+        "https://www.powershellgallery.com/packages/OSDBuilder"
     ],
     "NewLinks":
     [
-        "https://www.osdeploy.com/osbuilder/reviews",
-        "https://www.osdeploy.com/osbuilder/fan-requests"
+        "http://osdbuilder.com/releases"
     ],
     "HelpfulLinks":
     [
-        "https://www.osdeploy.com/osbuilder/release-information",
-        "https://www.osdeploy.com/osbuilder/docs/basics",
-        "https://www.osdeploy.com/osbuilder/docs/functions"
+        "http://osdbuilder.com/releases"
     ],
     "LatestUpdates":
     [
-        "19.2.15.0 Friday Update",
-        "19.2.12.0 Patch Tuesday Release",
-        "19.2.10.0 Get-OSBuilder minor changes"
+        "OSBuilder has been renamed to OSDBuilder",
+        "Uninstall-Module -Name OSBuilder -AllVersions -Force",
+        "Install-Module -Name OSDBuilder -Force",
+        "Close all PS Sessions and relaunch PowerShell"
     ],
     "Info":
     [
-        "https://www.powershellgallery.com/packages/OSBuilder/19.2.15.0"
+        "https://www.powershellgallery.com/packages/OSDBuilder"
     ],
     "News":
     [
-        "Update your OSBuilder Module for the latest Microsoft Updates",
+        "OSBuilder has been renamed to OSDBuilder",
         "Uninstall-Module -Name OSBuilder -AllVersions -Force",
-        "Install-Module -Name OSBuilder -Force",
-        "Import-Module -Name OSBuilder -Force"
+        "Install-Module -Name OSDBuilder -Force",
+        "Close all PS Sessions and relaunch PowerShell"
     ]
 }
